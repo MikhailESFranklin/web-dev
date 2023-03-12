@@ -1,0 +1,129 @@
+:: StoryTitle
+Kowpatu
+
+
+:: StoryData
+{
+  "ifid": "2872F1BF-29AE-4810-BB70-CD75DF4A8FA5",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "Start Screen",
+  "zoom": 1
+}
+
+
+:: Begin {"position":"800,475","size":"100,100"}
+(text-colour:#ff8787)[Part 1]
+
+[[Breakfast]]
+
+
+:: Breakfast {"position":"800,600","size":"100,100"}
+Part 1
+
+You wake up.
+
+The day seems promising. 
+
+[[Eggs and bacon for breakfast?]]
+
+[[Ham adn cheese sandwhich for breakfast?]]
+
+
+:: Breakfast tableFS {"position":"800,1100","size":"100,100"}
+
+
+
+:: Breakfast tableTO {"position":"700,1100","size":"100,100"}
+
+
+
+:: Casual Wear. {"position":"900,975","size":"100,100"}
+You tap on the casual wear. It kind of doesn't look too professional.
+"Eh." you say out loud.
+
+A roboticly enhanced male voice speaks up. "Please step into the circle."
+
+The circle below glows incandescent.
+
+You step in. //vwhoosh.//
+
+The next Second, you are covered with a pretty comfortable 
+
+[[I'm definitely changing out of this later.->Breakfast tableFS]]
+[[*whistle,* This is something else.->Breakfast tableFS]]
+
+
+:: Eggs and bacon for breakfast? {"position":"850,725","size":"100,100"}
+"...Lets go with Eggs and bacon."
+
+You decide to change your clothes beforehand.
+
+[[Head to the closet.]]
+
+
+:: Fancy Suit. {"position":"800,975","size":"100,100"}
+You tap on the fancy suit. Just hovering over it would play it's changing animation on loop.
+"Sweet." you whisper.
+
+A roboticly enhanced male voice speaks up. "Please step into the circle."
+
+The circle below glows incandescent.
+
+You step in. //vwhoosh.//
+
+The next Second, you are covered with three layers of a shirt, vest jacket, and the pants to A sash appears before the collor lights up, barely enough for you to see. There are five glowing buttons, each a dull blue.
+
+[[I'm definitely changing out of this later.->Breakfast tableFS]]
+[[*whistle,* This is something else.->Breakfast tableFS]]
+
+
+:: Ham adn cheese sandwhich for breakfast? {"position":"750,725","size":"100,100"}
+"Ham and cheese Sandwhich."
+
+You decide to change your clothes beforehand.
+
+[[Head to the closet.->Head to the closet.]]
+
+
+:: Head to the closet. {"position":"800,850","size":"100,100"}
+Looking around your white-lined navy royal green room. It's plain, but it isn't meant to be.  You try not to think about it too much. 
+
+You touch a part of the wall
+
+It opens lie a giant touch screen, but opens up from left to right. You smile.
+
+You have a couple of options. 
+
+The screen lights up. Several options appear like a character selection screen.
+A fancy suit that can fit any situation with a touch of a coller, and can change slightly to personalize the wearer. A classic wear-everywhere, casual wear. And finally, something in betwen. Not too fancy, but not too casual. Sort of plain in color, but makes up for it wih a sharp cuff style.
+
+[[Fancy suit, definitely. You ever know.->Fancy Suit.]]
+
+[[Casual wear. People probobly won't think too much about it.->Casual Wear.]]
+
+[[In between. I don't want to think too much about it. It's best for any occasion.->Third option]]
+
+
+
+:: Start Screen {"position":"800,350","size":"100,100"}
+Coyote and Crow:
+Morning Routine
+
+(text-style:"fade-in-out")[[Begin]]
+
+
+:: Third option {"position":"700,975","size":"100,100"}
+You tap on the third. Just hovering over it would play it's changing animation on loop.
+"yep." you say out loud.
+
+A roboticly enhanced male voice speaks up. "Please step into the circle."
+
+The circle below glows incandescent.
+
+You step in. //vwhoosh.//
+
+The next Second, you are covered with two layers of a shirts, and the pants tomatch.  A sash appears. Apparently you can choose the color before hand.
+
+[[Green. It's kinda my jam.->Breakfast tableTO]]
+[[Lets do blue, or something different. Purple.->Breakfast tableTO]]
